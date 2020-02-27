@@ -1,6 +1,6 @@
 # w0ne's extremely dotfiles
 
-*Desktop:* Environment: XFCE4\
+*Desktop Environment:* XFCE4\
 *Terminal:* xfce4-terminal\
 *Text-Editor*: vim\
 *Shell:* ZSH\

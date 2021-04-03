@@ -1,4 +1,4 @@
-# extremely skilled dotfiles
+# dotfiles
 
 *Desktop Environment:* XFCE4\
 *Terminal:* xfce4-terminal\
